@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhatsappSelenium", "WhatsappSelenium.csproj", "{3490D29A-5107-4877-8EB4-E8A8E0DAB3CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3490D29A-5107-4877-8EB4-E8A8E0DAB3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3490D29A-5107-4877-8EB4-E8A8E0DAB3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3490D29A-5107-4877-8EB4-E8A8E0DAB3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3490D29A-5107-4877-8EB4-E8A8E0DAB3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68102BA2-EAE1-455E-8CC7-BAF6817C03BB}
+	EndGlobalSection
+EndGlobal
